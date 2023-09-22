@@ -8,7 +8,7 @@
  * @vi: va_list arguments
  * @y: pointer being used
  * Return: number of characters being printed
- * Authors: Kingsley Dade and Gabriel Akinshola
+ * Authors: Franco Bugenge and Martha Chaitezvi
  */
 
 int print_bigS(va_list vi, flags_x *y)

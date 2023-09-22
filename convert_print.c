@@ -5,7 +5,7 @@
  * @num: input number
  * @base: input base
  * @lowercase: flag if hexadecimal characters need must be lowercase
- * Authors: Kingsley Dade, Gabriel Akinshola
+ * Authors: Franco Bugenge and Martha Chaitezvi
  * Return: result of string
  */
 

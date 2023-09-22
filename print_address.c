@@ -5,7 +5,7 @@
  * of the input in hexadecimal
  * @y: pointer to the struct being used
  * @vi: va_list argument being used
- * By Kingsley Dade and Gabriel Akinshola
+ * Authors: Franco Bugenge and Martha Chaitezvi
  * Return: number of characters being printed
  */
 

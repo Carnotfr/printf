@@ -12,7 +12,7 @@
  *
  * Return: 1 if a flag modifier was found and processed, 0 otherwise.
  *
- * Authors: Kingsley Dade and Gabriel Akinshola
+ * Authors: Franco Bugenge and Martha Chaitezvi
  */
 
 int get_flag(char s, flags_x *y)

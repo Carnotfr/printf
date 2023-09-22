@@ -5,7 +5,7 @@
  * hexadecimal base in lowercase
  * @y: pointer being used
  * @vi: va_list argument
- * Authors: Kingsley Dade and Gabriel Akinshola
+ * Authors: Franco Bugenge and Martha Chaitezvi
  * Return: number of characters being printed
  */
 

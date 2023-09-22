@@ -4,7 +4,7 @@
  * print_int - This function prints an integer
  * @vi: va_list of arguments
  * @y: pointer being used
- * By Kingsley Dade and Gabriel Akinshola
+ * Authors: Franco Bugenge and Martha Chaitezvi
  * Return: number of characters printed
  */
 

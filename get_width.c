@@ -4,7 +4,7 @@
  * @vi: arguments
  * @y: pointer being used
  * Return: Values
- * Authors: Kingsley Dade and Gabriel Akinshola
+ * Authors: Martha Chaitezvi and Franco Bugenge
  */
 
 int handle_width(va_list vi, flags_x *y)

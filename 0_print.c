@@ -4,7 +4,7 @@
  * _printf - printf function
  * @format: format string specifier being used
  * Return: The number of characters in the function
- * Authors: Kingsley Dade and Gabriel Akinshola
+ * Authors: Franco Bugenge and Martha Chaitezvi
  */
 
 int _printf(const char *format, ...)

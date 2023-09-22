@@ -5,7 +5,7 @@
  * the specific appropraite printing function
  * @specifier: The character that holds the specifier
  * being converted
- * Authors: Kingsley Dade and Gabriel Akinshola
+ * Authors: Franco Bugenge and Martha Chaitezvi
  * Return: pointer to the matching printing function
  */
 
